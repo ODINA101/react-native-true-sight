@@ -175,7 +175,7 @@ export default class VideoPlayer extends React.PureComponent<Props, State> {
     if (currentTime !== this.state.currentTime) {
       this.setState({
         currentTime,
-        isLoading: currentTime >= meta.playableDuration
+        isLoading: false
       });
     }
 

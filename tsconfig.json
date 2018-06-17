@@ -13,7 +13,7 @@
     "noUnusedLocals": true,
     "preserveConstEnums": true,
     "outDir": "./build"
-  },
+                       },
   "include": [
     "src/**/*"
   ],
