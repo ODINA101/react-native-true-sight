@@ -1,7 +1,6 @@
 {
   "name": "react-native-true-sight",
-  "description":
-    "A cross-platform video player with customizable controls for React Native.",
+  "description": "A cross-platform video player with customizable controls for React Native.",
   "version": "1.0.0-alpha4",
   "license": "MIT",
   "author": {
